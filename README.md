@@ -5,3 +5,12 @@
 
 
 - feito usando o collab e bibliotecas como o numpy.
+
+
+
+
+# membros do projeto
+
+- Matheus Marques.
+- Daniel Lucas.
+- Kewen Wesley.
