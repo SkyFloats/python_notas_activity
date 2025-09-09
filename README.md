@@ -12,7 +12,8 @@ Este trabalho tem como objetivo aplicar conceitos de lógica de programação e 
 📌 Aplicação de lógica booleana para verificar aprovação/reprovação.
 
 
-Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
+
 Python (Google Colab)
 
 NumPy – para manipulação e cálculo de arrays.
