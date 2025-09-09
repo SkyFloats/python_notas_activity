@@ -14,7 +14,9 @@ Este trabalho tem como objetivo aplicar conceitos de lógica de programação e 
 
 Tecnologias Utilizadas:
 Python (Google Colab)
+
 NumPy – para manipulação e cálculo de arrays.
+
 Colab - como ambiente de desenvolvimento - linguagem interpretada.
 
 Objetivo Acadêmico:
