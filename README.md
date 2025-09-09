@@ -25,7 +25,12 @@ Explorar na prática fundamentos de ciência de dados, com foco em: Estruturaç�
 Processamento numérico com bibliotecas;
 Aplicação de regras lógicas e condicionais.
 
-Membros do Projeto
-Daniel Lucas, Kewen Wesley, Matheus Marques
+## Membros do Projeto:
+
+Daniel Lucas, 
+
+Kewen Wesley, 
+
+Matheus Marques
 
 Projeto desenvolvido como parte da disciplina de Ciência de Dados, reforçando a importância da lógica computacional no tratamento e análise de informações acadêmicas.
