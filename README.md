@@ -1,16 +1,24 @@
-## Atividade de lógica em python
+## 📊 Atividade de Lógica em Python
+🎓 Uninassau – Ciência de Dados (5º Período, Noturno) \ Professor: Breno
 
+Descrição do Projeto
 
-# Desenvolvimento de ordenança de arrays com dados de notas de alunos  e matérias. Calculando a média e fazendo lógica booleana.
+Este trabalho tem como objetivo aplicar conceitos de lógica de programação e manipulação de arrays em Python, utilizando dados de notas de alunos e matérias. As principais funcionalidades desenvolvidas foram:
 
+📌 Ordenação de arrays com base em notas.
+📌 Cálculo automático de médias.
+📌 Aplicação de lógica booleana para verificar aprovação/reprovação.
 
-- feito usando o collab e bibliotecas como o numpy.
+Tecnologias Utilizadas:
+Python (Google Colab)
+NumPy – para manipulação e cálculo de arrays.
 
+Objetivo Acadêmico:
+Explorar na prática fundamentos de ciência de dados, com foco em: Estruturação de dados em arrays;
+Processamento numérico com bibliotecas;
+Aplicação de regras lógicas e condicionais.
 
+Membros do Projeto
+Daniel Lucas, Kewen Wesley, Matheus Marques
 
-
-# membros do projeto
-
-- Matheus Marques.
-- Daniel Lucas.
-- Kewen Wesley.
+Projeto desenvolvido como parte da disciplina de Ciência de Dados, reforçando a importância da lógica computacional no tratamento e análise de informações acadêmicas.
